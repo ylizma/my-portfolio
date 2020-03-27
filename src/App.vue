@@ -1,21 +1,26 @@
 <template>
-  <div id="app" class="bg-gray-800 h-screen">
-      <navbar />
-      <div class="flex">
-      <home />
+  <div id="app" class="flex flex-col h-screen justify-between bg-gray-800">
+      <navbar  />
+      <div class="mb-auto ">
+        <Home />
       </div>
+      <Footer/>
   </div>
 </template>
 
 <script>
 import Navbar from '@/components/Navbar.vue';
-import Home from '@/components/Home.vue';
+import Home from '@/pages/Home.vue';
+
+import Footer from '@/components/Footer'
 
 export default {
   name: 'App',
   components: {
     Navbar,
-    Home
+    Home,
+
+    Footer
   }
 }
 </script>

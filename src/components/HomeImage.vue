@@ -1,9 +1,7 @@
 <template>
-  <div class="">
     <div>
-      <img src="img/bike.svg" class="h-48" alt="working">
+      <img src="img/bike.svg" class="h-48 mx-auto" alt="working">
     </div>
-  </div>
 </template>
 
 <script>
