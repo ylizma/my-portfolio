@@ -12,7 +12,7 @@
                 </button>
             </div>
         </div>
-        <div :class="isOpen?'block':'hidden'" class="px-2 py-3 pb-4 sm:flex ">
+        <div :class="isOpen?'block h-screen ':'hidden'" class="px-2 py-3 pb-4 sm:flex ">
             <a href="#" class="block py-1 sm:mt-0 sm:ml-3 px-2 text-white font-semibold hover:bg-gray-800 rounded">Home</a>
             <a href="#" class="block mt-1 sm:mt-0 sm:ml-3  py-1 px-2 text-white font-semibold hover:bg-gray-800 rounded">About</a>
             <a href="#" class="block mt-1 sm:mt-0 sm:ml-3  py-1 px-2 text-white font-semibold hover:bg-gray-800 rounded">Contact</a>
@@ -25,7 +25,6 @@ export default {
     data(){
         return {
             isOpen:false,
-
         }
     }
 }

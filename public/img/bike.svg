@@ -2,7 +2,7 @@
 <style>
 #righthand,
 #lefthand {
-  animation: writing 0.3s ease infinite;
+  animation: writing 0.9s ease infinite;
 }
 
 @keyframes writing {
