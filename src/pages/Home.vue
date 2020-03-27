@@ -1,6 +1,6 @@
 <template>
-    <div>
-      <homeimage />
+    <div class="sm:flex">
+      <homeimage  />
       <Intro />
     </div>
 </template>

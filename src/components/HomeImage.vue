@@ -1,6 +1,6 @@
 <template>
     <div>
-      <img src="img/bike.svg" class="h-48 mx-auto" alt="working">
+      <img src="img/bike.svg" class="h-48 mx-auto  sm:h-auto sm:mx-48 sm:my-10 " alt="working">
     </div>
 </template>
 
@@ -11,5 +11,5 @@ export default {
 </script>
 
 <style>
-
+/* */
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-900 text-white h-10">
+  <div class="bg-gray-900 text-white h-16">
         <h4>
             footer
         </h4>
