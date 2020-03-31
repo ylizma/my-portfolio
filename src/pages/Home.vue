@@ -1,5 +1,5 @@
 <template>
-    <div class="sm:flex">
+    <div class="lg:flex">
       <homeimage  />
       <Intro />
     </div>

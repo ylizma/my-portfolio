@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-700 text-white h-16 items-center  justify-center flex">
+  <div class="bg-gray-900 text-white h-16 items-center  justify-center flex">
         <button class="mx-4 hover:text-gray-900">
           <a href="mailto:youssefamzil98@gmail.com">
             <svg class="" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 226 226"><g fill="none" stroke-miterlimit="10" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode:normal"><path d="M0 226V0h226v226z"/><path d="M42.375 49.658c-2.18 0-4.221.414-6.18 1.02l20.58 13.105h112.45l20.58-13.104c-1.96-.607-4-1.02-6.18-1.02zM29.05 54.514c-4.773 3.89-7.863 9.738-7.863 16.332v91.812c0 11.67 9.518 21.188 21.188 21.188h141.25c11.67 0 21.188-9.518 21.188-21.188V70.846c0-6.594-3.09-12.442-7.863-16.332L113 107.924zm13.325 33.381L113 132.863l70.625-44.968v81.826H42.375z"  class="fill-current"/></g></svg>
