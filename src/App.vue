@@ -10,7 +10,7 @@
 
 <script>
 import Navbar from '@/components/Navbar.vue';
-import Home from '@/pages/Home.vue';
+import Home from '@/views/Home.vue';
 
 import Footer from '@/components/Footer'
 

@@ -2,7 +2,9 @@
     <header class="bg-gray-900 sm:flex sm:justify-between sm:px-4 sm:py-3 sm:items-center">
         <div class=" flex items-center px-4 py-3 justify-between sm:p-0">
             <div class="flex items-center">
-                <img src="/img/logo.jpg" alt="logo" class="h-12 rounded-full">
+                <a href="#">
+                    <img src="/img/logo.jpg" alt="logo" class="h-12 rounded-full">
+                </a>
                 <div class="mx-4 font-mono text-lg text-gray-500 text-center hover:underline hover:text-white">
                     <a href="#">Youssef AMZIL</a>
                 </div>
