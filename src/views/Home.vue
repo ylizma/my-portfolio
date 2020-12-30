@@ -1,7 +1,7 @@
 <template>
     <div class="lg:flex">
-      <homeimage  />
-      <Intro />
+      <homeimage class=""  />
+      <Intro class="" />
     </div>
 </template>
 
