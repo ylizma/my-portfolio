@@ -1,7 +1,7 @@
 <template>
     <div class="lg:flex">
-      <homeimage class=""  />
-      <Intro class="" />
+      <homeimage @hook:mounted="isLoaded = true" />
+      <Intro v-show="isLoaded"  />
     </div>
 </template>
 
@@ -10,7 +10,11 @@
 import Homeimage from '@/components/HomeImage'
 import Intro from '@/components/Intro'
 export default {
-
+data() {
+  return {
+    isLoaded : false
+  }
+},
 components:{
 Homeimage,
 Intro
